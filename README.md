@@ -4,6 +4,8 @@
 服务的启动顺序：Python服务,eureka-server,sidecar-py,eureka-service
 
 一:  Python服务:
+  
+  pip install Flask
 
   (1) Python服务监听3000接口。
 
