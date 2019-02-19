@@ -25,7 +25,7 @@
 
 四: eureka-service服务
 
-  **（注意：在这里Java语言调用了Python的接口，实现了Java和Python的通信）
+  ## （注意：在这里Java语言调用了Python的接口，实现了Java和Python的通信）
   
   (1) 在JavaController中，msg方法调用了Python服务，将Python中getMsg信息返回
   
